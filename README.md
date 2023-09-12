@@ -25,7 +25,7 @@ Docker
 
 Клонировать репозиторий и перейти в него в командной строке:
 ```
-git@github.com:BulimicMimic/analitikaplus_test_task.git
+git clone git@github.com:BulimicMimic/analitikaplus_test_task.git
 ```
 
 Запустить сеть докер контейнеров из корневой директории проекта:
